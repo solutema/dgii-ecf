@@ -93,6 +93,9 @@ Ejecutar el contenedor:
 docker run --rm dgii-ecf
 ```
 
+## Integración con ERP
+Para una guía detallada de cómo incorporar **dgii-ecf** dentro de su sistema ERP, consulte [docs/Guia_Integracion_ERP.es.md](docs/Guia_Integracion_ERP.es.md).
+
 
 ## Enlaces y Documentación
 - [Documentación Oficial DGII](https://dgii.gov.do/cicloContribuyente/facturacion/comprobantesFiscalesElectronicosE-CF/Paginas/default.aspx)
