@@ -83,6 +83,17 @@ Ejecute las pruebas unitarias e integradas:
 npm run test
 ```
 
+## Uso con Docker
+Construir la imagen:
+```bash
+docker build -t dgii-ecf .
+```
+Ejecutar el contenedor:
+```bash
+docker run --rm dgii-ecf
+```
+
+
 ## Enlaces y Documentación
 - [Documentación Oficial DGII](https://dgii.gov.do/cicloContribuyente/facturacion/comprobantesFiscalesElectronicosE-CF/Paginas/default.aspx)
 - [Documentación Técnica DGII](https://dgii.gov.do/cicloContribuyente/facturacion/comprobantesFiscalesElectronicosE-CF/Paginas/documentacionSobreE-CF.aspx)
